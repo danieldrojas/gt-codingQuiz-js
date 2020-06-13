@@ -18,7 +18,7 @@ Clone repository on local machine and run HTML file in browser.
 ## Usage 
 The present is a Coding Quiz built using Javascript. It hasn't been finished 
 
-[Deployed Portafolio Site](https://danieldrojas.github.io/gt-refactor-accessibility/)
+[Deployed Coding Challenge Site](https://danieldrojas.github.io/gt-codingQuiz-js/.)
 
 ![About ](images/codeweb.png)
 
